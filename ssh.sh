@@ -44,7 +44,7 @@ sleep 1
 
 # Instalar MOTD
 echo -e "\033[1;34m▶ Instalando MOTD Personalizado...\033[0m"
-bash <(curl -fsSL https://raw.githubusercontent.com/root-apolinario/vps-motd/main/motd.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/apolinario20/Motd-VPS/main/motd.sh)
 
 echo -e "\033[1;32m✔ MOTD Personalizado Instalado!\033[0m"
 sleep 1
