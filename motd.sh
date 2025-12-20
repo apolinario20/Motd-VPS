@@ -50,7 +50,7 @@ printf "  ${YELLOW}Usuários Logados:${RESET} %s\n" "$USERS"
 printf "  ${YELLOW}Endereço IP     :${RESET} %s\n" "$IP"
 printf "  ${YELLOW}Uptime          :${RESET} %s\n\n" "$UPTIME"
 
-echo -e "${CYAN}Suporte via Discord: apolinarioooo_${RESET}"
+echo -e "${CYAN}Suporte via Discord: apolinario20${RESET}"
 echo -e "Discord: ${BLUE}https://discord.gg/dqapD8d3WC${RESET}"
 echo -e "${GREEN}Qualidade Sempre — Sem Compromisso 😄${RESET}"
 EOF
